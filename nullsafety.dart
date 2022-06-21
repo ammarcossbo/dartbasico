@@ -12,7 +12,7 @@ void main() {
   sobrenome = 'Silva';
   print('sobrenome é $sobrenome');
   sobrenome = 'Santos';
-  sobrenome = null;
+  sobrenome = null; // o erro é de propósito
 
   // quando vc coloca late uma variável depois de inicializada não pode mais ser null
 }
