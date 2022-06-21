@@ -13,7 +13,7 @@ void main() {
 
   double precoDoCelular = celularDoDeivid.valorDoCelular(1000);
 
-  print(precoDoCelular);
+  print(precoDoCelular);//
 }
 
 class Celular {
