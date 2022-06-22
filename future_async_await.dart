@@ -14,3 +14,5 @@ Future<String> getCepByName(String name) {
   //simulando requisição a api externa
   return Future.value('13000-000');
 }
+// future é algo que pode não acontecer , por exemplo uma chamada de api então não da para garantir
+// que ela será devolvida
